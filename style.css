@@ -2,7 +2,7 @@
     margin-bottom: 100px;
 }
 .orang-bg{
-    background-color:#fceae8;
+    background-color:#f4cac5;
     border-radius: 10px;
 }
 .carousel-item{
@@ -14,8 +14,35 @@
 .bay-now-bullon{
 background-color: #ff136f;
 color: aliceblue;
-border: none;
+border: none; 
 border-radius: 8px;
 padding: 9px 25px;
 cursor: pointer;
+}
+.cat1,.cat2,.cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-color: #ff136f;
+}
+.cat2{
+    background-color: cyan;
+}
+.cat3{
+    background-color: blue;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#subscribe{
+    height: 300px;
+    width: 1000px;
 }
